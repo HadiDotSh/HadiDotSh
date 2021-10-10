@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/2314126375/1628808865/1080x360" width="100%" />
+<img src="https://pbs.twimg.com/profile_banners/2314126375/1633826834/1500x500" width="100%" />
 
 # Hi, I'm Hadi
 Young french developer and IT student, fan of bash, infosec, and airpods ( and Uber Eats ♡ ) I only understand Bash ☁️ I dream to make them come true
